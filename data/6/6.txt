@@ -1,0 +1,18 @@
+WORD cowing (DEGREE: 16)
+CONNECTED words:
+bowing
+cawing
+coding
+coming
+coning
+cooing
+coping
+coring
+coxing
+lowing
+mowing
+rowing
+sowing
+towing
+vowing
+wowing

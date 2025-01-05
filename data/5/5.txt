@@ -1,0 +1,25 @@
+WORD cares (DEGREE: 23)
+CONNECTED words:
+bares
+cafes
+cages
+cakes
+canes
+capes
+carbs
+cards
+cared
+carer
+carps
+carts
+cases
+caves
+cores
+cures
+dares
+fares
+hares
+mares
+pares
+tares
+wares

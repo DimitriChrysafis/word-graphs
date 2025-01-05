@@ -1,0 +1,26 @@
+WORD care (DEGREE: 24)
+CONNECTED words:
+bare
+cafe
+cage
+cake
+came
+cane
+cape
+carb
+card
+carp
+cars
+cart
+case
+cave
+core
+cure
+dare
+fare
+hare
+mare
+pare
+rare
+tare
+ware

@@ -1,0 +1,3 @@
+WORD compartmentalising (DEGREE: 1)
+CONNECTED words:
+compartmentalizing

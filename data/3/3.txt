@@ -1,0 +1,29 @@
+WORD mad (DEGREE: 27)
+CONNECTED words:
+bad
+cad
+dad
+fad
+gad
+had
+lad
+mac
+mag
+mam
+man
+map
+mar
+mas
+mat
+maw
+max
+may
+med
+mid
+mod
+mud
+pad
+rad
+sad
+tad
+wad

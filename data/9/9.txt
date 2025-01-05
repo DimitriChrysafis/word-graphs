@@ -1,0 +1,10 @@
+WORD battering (DEGREE: 8)
+CONNECTED words:
+bantering
+bartering
+battening
+bettering
+buttering
+mattering
+nattering
+pattering

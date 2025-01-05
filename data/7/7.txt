@@ -1,0 +1,18 @@
+WORD searing (DEGREE: 16)
+CONNECTED words:
+bearing
+fearing
+gearing
+hearing
+nearing
+rearing
+scaring
+sealing
+seating
+sharing
+snaring
+soaring
+sparing
+staring
+tearing
+wearing

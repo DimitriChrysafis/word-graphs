@@ -1,0 +1,14 @@
+WORD ah (DEGREE: 12)
+CONNECTED words:
+ad
+am
+an
+as
+at
+aw
+ax
+ay
+eh
+oh
+sh
+uh

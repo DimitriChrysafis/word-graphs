@@ -1,0 +1,6 @@
+WORD nationalises (DEGREE: 4)
+CONNECTED words:
+nationalised
+nationalists
+nationalizes
+rationalises

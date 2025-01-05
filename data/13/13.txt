@@ -1,0 +1,5 @@
+WORD anaesthetises (DEGREE: 3)
+CONNECTED words:
+anaesthetised
+anaesthetists
+anaesthetizes

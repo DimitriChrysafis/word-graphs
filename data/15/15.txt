@@ -1,0 +1,5 @@
+WORD sensationalises (DEGREE: 3)
+CONNECTED words:
+sensationalised
+sensationalists
+sensationalizes

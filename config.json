@@ -1,0 +1,65 @@
+{
+    "nodes": {
+        "borderWidth": 1,
+        "borderWidthSelected": 2,
+        "shape": "dot",
+        "size": 10,
+        "color": {
+            "background": "#f1c40f",
+            "border": "#e67e22"
+        },
+        "font": {
+            "size": 14,
+            "color": "#2c3e50",
+            "face": "arial"
+        }
+    },
+    "edges": {
+        "width": 2,
+        "color": {
+            "color": "#7f8c8d",
+            "highlight": "#e74c3c"
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "continuous",
+            "roundness": 0.5
+        }
+    },
+    "physics": {
+        "enabled": true,
+        "barnesHut": {
+            "gravitationalConstant": -20000,
+            "springLength": 100,
+            "springConstant": 0.05,
+            "damping": 0.4
+        },
+        "minVelocity": 0.75,
+        "stabilization": {
+            "enabled": true,
+            "iterations": 200
+        }
+    },
+    "interaction": {
+        "zoomView": true,
+        "selectable": true,
+        "selectConnectedEdges": true,
+        "hover": true,
+        "keyboard": {
+            "enabled": true,
+            "bindToWindow": false
+        }
+    },
+    "clustering": {
+        "enabled": true,
+        "clusterEdgeThreshold": 150,
+        "clusterNodeProperties": {
+            "borderWidth": 3,
+            "color": {
+                "background": "#FFD700",
+                "border": "#FFA500"
+            },
+            "size": 50
+        }
+    }
+}

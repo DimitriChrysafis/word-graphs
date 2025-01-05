@@ -1,0 +1,12 @@
+WORD battered (DEGREE: 10)
+CONNECTED words:
+bantered
+bartered
+battened
+batterer
+bettered
+buttered
+mattered
+nattered
+pattered
+tattered

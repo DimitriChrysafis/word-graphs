@@ -1,0 +1,6 @@
+WORD antagonises (DEGREE: 4)
+CONNECTED words:
+antagonised
+antagonisms
+antagonists
+antagonizes

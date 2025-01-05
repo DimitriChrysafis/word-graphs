@@ -1,0 +1,6 @@
+WORD convection (DEGREE: 4)
+CONNECTED words:
+confection
+connection
+convention
+conviction

@@ -1,0 +1,643 @@
+#/Users/dimitrichrysafis/PycharmProjects/Networkx/main.py
+# GMT Sun Jan  5 21:51:10 2025
+# 
+aah ash bah fah hah lah nah rah
+abs ads ass
+ace act age ale ape are ate awe axe aye ice
+act aft ant apt art
+add ado ads adz aid and odd
+ado ads adz ago
+ads adz ass ids
+adz
+aft ant apt art oft
+age ago ale ape are ate awe axe aye
+ago ego
+aid ail aim air and bid did hid kid lid mid rid yid
+ail aim air all awl mil nil oil til
+aim air arm dim him rim sim vim
+air fir sir
+ale all ape are ate awe axe aye ole
+all awl ill
+amp app asp imp ump
+and ant any end
+ant any apt art
+any
+ape app apt are ate awe axe aye
+app apt asp
+apt art opt
+arc are ark arm art orc
+are ark arm art ate awe axe aye ere ire ore
+ark arm art ask auk irk
+arm art
+art
+ash ask asp ass
+ask asp ass auk
+asp ass
+ass
+ate awe axe aye ute
+auk yuk
+awe awl axe aye ewe owe
+awl owl
+axe aye
+aye bye dye eye lye rye
+baa bad bag bah ban bap bar bat bay boa bra
+bad bag bah ban bap bar bat bay bed bid bod bud cad dad fad gad had lad mad pad rad sad tad wad
+bag bah ban bap bar bat bay beg big bog bug dag fag gag hag jag lag mag nag rag sag tag wag
+bah ban bap bar bat bay fah hah lah nah rah
+ban bap bar bat bay bin bun can fan man nan pan ran tan van wan
+bap bar bat bay bop cap gap lap map nap pap rap sap tap yap zap
+bar bat bay brr bur car ear far jar mar oar par tar war
+bat bay bet bit bot but cat eat fat hat mat oat pat rat sat tat vat
+bay boy buy day gay hay jay lay may nay pay ray say way yay
+bed bee beg bet bid bod bud fed led med red ted wed
+bee beg bet bye fee gee lee nee pee see tee wee
+beg bet big bog bug keg leg meg peg reg veg
+bet bit bot but get jet let met net pet set vet wet yet
+bib bid big bin bit biz bob bub fib jib lib nib rib
+bid big bin bit biz bod bud did hid kid lid mid rid yid
+big bin bit biz bog bug dig fig gig jig pig rig wig
+bin bit biz bun din fin gin kin pin sin tin win yin
+bit biz bot but fit git hit kit lit nit pit sit tit wit zit
+biz
+boa bob bod bog boo bop bot bow box boy bra
+bob bod bog boo bop bot bow box boy bub cob dob fob gob hob job lob mob nob rob sob yob
+bod bog boo bop bot bow box boy bud cod god hod mod nod pod rod sod tod
+bog boo bop bot bow box boy bug cog dog fog hog jog log tog wog
+boo bop bot bow box boy bro coo goo loo moo poo roo too woo zoo
+bop bot bow box boy cop fop hop lop mop pop sop top wop
+bot bow box boy but cot dot got hot jot lot not pot rot sot tot wot
+bow box boy cow how low mow now pow row sow tow vow wow
+box boy cox fox lox pox
+boy buy coy joy soy toy
+bra bro brr era
+bro brr pro
+brr bur err
+bub bud bug bum bun bur bus but buy cub dub hub nub pub rub sub tub
+bud bug bum bun bur bus but buy cud dud mud pud
+bug bum bun bur bus but buy dug fug hug jug lug mug pug rug tug
+bum bun bur bus but buy cum gum hum mum rum sum tum yum
+bun bur bus but buy dun fun gun nun pun run sun
+bur bus but buy cur fur our
+bus but buy jus pus
+but buy cut gut hut jut nut out put rut tut
+buy guy
+bye dye eye lye rye
+cab cad cam can cap car cat caw cob cub dab fab gab jab lab nab tab
+cad cam can cap car cat caw cod cud dad fad gad had lad mad pad rad sad tad wad
+cam can cap car cat caw cum dam ham jam lam mam ram yam
+can cap car cat caw con fan man nan pan ran tan van wan
+cap car cat caw cop cup gap lap map nap pap rap sap tap yap zap
+car cat caw cor cur ear far jar mar oar par tar war
+cat caw cot cut eat fat hat mat oat pat rat sat tat vat
+caw cow haw jaw law maw paw raw saw yaw
+cob cod cog con coo cop cor cos cot cow cox coy cub dob fob gob hob job lob mob nob rob sob yob
+cod cog con coo cop cor cos cot cow cox coy cud god hod mod nod pod rod sod tod
+cog con coo cop cor cos cot cow cox coy dog fog hog jog log tog wog
+con coo cop cor cos cot cow cox coy don eon hon ion son ton won yon
+coo cop cor cos cot cow cox coy goo loo moo poo roo too woo zoo
+cop cor cos cot cow cox coy cup fop hop lop mop pop sop top wop
+cor cos cot cow cox coy cur for nor tor
+cos cot cow cox coy dos hos
+cot cow cox coy cut dot got hot jot lot not pot rot sot tot wot
+cow cox coy how low mow now pow row sow tow vow wow
+cox coy fox lox pox
+coy cry joy soy toy
+cry dry fry pry try wry
+cub cud cue cum cup cur cut dub hub nub pub rub sub tub
+cud cue cum cup cur cut dud mud pud
+cue cum cup cur cut due hue rue sue
+cum cup cur cut gum hum mum rum sum tum yum
+cup cur cut pup sup yup
+cur cut fur our
+cut gut hut jut nut out put rut tut
+dab dad dag dal dam day deb dob dub fab gab jab lab nab tab
+dad dag dal dam day did dud fad gad had lad mad pad rad sad tad wad
+dag dal dam day dig dog dug fag gag hag jag lag mag nag rag sag tag wag
+dal dam day gal pal
+dam day dim ham jam lam mam ram yam
+day dry gay hay jay lay may nay pay ray say way yay
+deb def den dew dob dub web
+def den dew ref
+den dew din don dun fen gen hen ken men pen ten yen
+dew few hew mew new pew sew yew
+did die dig dim din dip dis dud hid kid lid mid rid yid
+die dig dim din dip dis doe due dye hie lie pie tie vie
+dig dim din dip dis dog dug fig gig jig pig rig wig
+dim din dip dis him rim sim vim
+din dip dis don dun fin gin kin pin sin tin win yin
+dip dis hip kip lip nip pip rip sip tip yip zip
+dis dos his sis tis
+dob doc doe dog doh don dos dot dub fob gob hob job lob mob nob rob sob yob
+doc doe dog doh don dos dot
+doe dog doh don dos dot due dye foe hoe roe toe woe
+dog doh don dos dot dug fog hog jog log tog wog
+doh don dos dot duh ooh soh
+don dos dot dun eon hon ion son ton won yon
+dos dot hos
+dot got hot jot lot not pot rot sot tot wot
+dry fry pry try wry
+dub dud due dug duh dun duo hub nub pub rub sub tub
+dud due dug duh dun duo mud pud
+due dug duh dun duo dye hue rue sue
+dug duh dun duo fug hug jug lug mug pug rug tug
+duh dun duo huh
+dun duo fun gun nun pun run sun
+duo
+dye eye lye rye
+ear eat err far jar mar oar par tar war
+eat fat hat mat oat pat rat sat tat vat
+eek eel elk
+eel gel
+eff elf off
+egg ego
+ego emo
+eke ere eve ewe eye
+elf elk elm
+elk elm ilk
+elm
+emo emu
+emu
+end
+eon hon ion son ton won yon
+era ere err
+ere err eve ewe eye ire ore
+err
+eve ewe eye
+ewe eww eye owe
+eww
+eye lye rye
+fab fad fag fah fan far fas fat fax fib fob gab jab lab nab tab
+fad fag fah fan far fas fat fax fed gad had lad mad pad rad sad tad wad
+fag fah fan far fas fat fax fig fog fug gag hag jag lag mag nag rag sag tag wag
+fah fan far fas fat fax hah lah nah rah
+fan far fas fat fax fen fin fun man nan pan ran tan van wan
+far fas fat fax fir for fur jar mar oar par tar war
+fas fat fax gas has las mas pas was
+fat fax fit hat mat oat pat rat sat tat vat
+fax fix fox lax max sax tax wax
+fed fee fen few fey fez led med red ted wed
+fee fen few fey fez foe gee lee nee pee see tee wee
+fen few fey fez fin fun gen hen ken men pen ten yen
+few fey fez hew mew new pew sew yew
+fey fez fly fry hey key
+fez
+fib fig fin fir fit fix fob jib lib nib rib
+fig fin fir fit fix fog fug gig jig pig rig wig
+fin fir fit fix fun gin kin pin sin tin win yin
+fir fit fix for fur sir
+fit fix git hit kit lit nit pit sit tit wit zit
+fix fox mix nix pix six
+flu fly
+fly fry ply sly
+fob foe fog fop for fox gob hob job lob mob nob rob sob yob
+foe fog fop for fox hoe roe toe woe
+fog fop for fox fug hog jog log tog wog
+fop for fox hop lop mop pop sop top wop
+for fox fur nor tor
+fox lox pox
+fry pry try wry
+fug fun fur hug jug lug mug pug rug tug
+fun fur gun nun pun run sun
+fur our
+gab gad gag gal gap gas gay gob jab lab nab tab
+gad gag gal gap gas gay god had lad mad pad rad sad tad wad
+gag gal gap gas gay gig hag jag lag mag nag rag sag tag wag
+gal gap gas gay gel pal
+gap gas gay gyp lap map nap pap rap sap tap yap zap
+gas gay has las mas pas was
+gay guy hay jay lay may nay pay ray say way yay
+gee gel gem gen get lee nee pee see tee wee
+gel gem gen get
+gem gen get gum gym hem
+gen get gin gun hen ken men pen ten yen
+get git got gut jet let met net pet set vet wet yet
+gig gin git jig pig rig wig
+gin git gun kin pin sin tin win yin
+git got gut hit kit lit nit pit sit tit wit zit
+gob god goo got hob job lob mob nob rob sob yob
+god goo got hod mod nod pod rod sod tod
+goo got loo moo poo roo too woo zoo
+got gut hot jot lot not pot rot sot tot wot
+gum gun gut guv guy gym hum mum rum sum tum yum
+gun gut guv guy nun pun run sun
+gut guv guy hut jut nut out put rut tut
+guv guy luv
+guy
+gym gyp
+gyp
+had hag hah haj ham has hat haw hay hid hod lad mad pad rad sad tad wad
+hag hah haj ham has hat haw hay hog hug jag lag mag nag rag sag tag wag
+hah haj ham has hat haw hay huh lah nah rah
+haj ham has hat haw hay
+ham has hat haw hay hem him hmm hum jam lam mam ram yam
+has hat haw hay his hos las mas pas was
+hat haw hay hit hot hut mat oat pat rat sat tat vat
+haw hay hew how jaw law maw paw raw saw yaw
+hay hey jay lay may nay pay ray say way yay
+hem hen her hew hex hey him hmm hum
+hen her hew hex hey hon ken men pen ten yen
+her hew hex hey per yer
+hew hex hey how mew new pew sew yew
+hex hey sex vex
+hey key
+hid hie him hip his hit hod kid lid mid rid yid
+hie him hip his hit hoe hue lie pie tie vie
+him hip his hit hmm hum rim sim vim
+hip his hit hop kip lip nip pip rip sip tip yip zip
+his hit hos sis tis
+hit hot hut kit lit nit pit sit tit wit zit
+hmm hum
+hob hod hoe hog hon hop hos hot how hub job lob mob nob rob sob yob
+hod hoe hog hon hop hos hot how mod nod pod rod sod tod
+hoe hog hon hop hos hot how hue roe toe woe
+hog hon hop hos hot how hug jog log tog wog
+hon hop hos hot how ion son ton won yon
+hop hos hot how lop mop pop sop top wop
+hos hot how
+hot how hut jot lot not pot rot sot tot wot
+how low mow now pow row sow tow vow wow
+hub hue hug huh hum hut nub pub rub sub tub
+hue hug huh hum hut rue sue
+hug huh hum hut jug lug mug pug rug tug
+huh hum hut
+hum hut mum rum sum tum yum
+hut jut nut out put rut tut
+ice ick icy ire
+ick icy ilk ink irk
+icy ivy
+ids ifs ins its
+ifs ins its
+ilk ill ink irk
+ill
+imp ump
+ink inn ins irk
+inn ins ion
+ins its
+ion son ton won yon
+ire irk ore
+irk
+its
+ivy
+jab jag jam jar jaw jay jib job lab nab tab
+jag jam jar jaw jay jig jog jug lag mag nag rag sag tag wag
+jam jar jaw jay lam mam ram yam
+jar jaw jay mar oar par tar war
+jaw jay law maw paw raw saw yaw
+jay joy lay may nay pay ray say way yay
+jet jot jut let met net pet set vet wet yet
+jib jig job lib nib rib
+jig jog jug pig rig wig
+job jog jot joy lob mob nob rob sob yob
+jog jot joy jug log tog wog
+jot joy jut lot not pot rot sot tot wot
+joy soy toy
+jug jus jut lug mug pug rug tug
+jus jut pus
+jut nut out put rut tut
+keg ken key leg meg peg reg veg
+ken key kin men pen ten yen
+key
+kid kin kip kit lid mid rid yid
+kin kip kit pin sin tin win yin
+kip kit lip nip pip rip sip tip yip zip
+kit lit nit pit sit tit wit zit
+lab lad lag lah lam lap las lav law lax lay lib lob nab tab
+lad lag lah lam lap las lav law lax lay led lid mad pad rad sad tad wad
+lag lah lam lap las lav law lax lay leg log lug mag nag rag sag tag wag
+lah lam lap las lav law lax lay nah rah
+lam lap las lav law lax lay mam ram yam
+lap las lav law lax lay lip lop map nap pap rap sap tap yap zap
+las lav law lax lay mas pas was
+lav law lax lay luv
+law lax lay low maw paw raw saw yaw
+lax lay lox max sax tax wax
+lay may nay pay ray say way yay
+led lee leg lei let lid med red ted wed
+lee leg lei let lie lye nee pee see tee wee
+leg lei let log lug meg peg reg veg
+lei let
+let lit lot met net pet set vet wet yet
+lib lid lie lip lit lob nib rib
+lid lie lip lit mid rid yid
+lie lip lit lye pie tie vie
+lip lit lop nip pip rip sip tip yip zip
+lit lot nit pit sit tit wit zit
+lob log loo lop lot low lox mob nob rob sob yob
+log loo lop lot low lox lug tog wog
+loo lop lot low lox moo poo roo too woo zoo
+lop lot low lox mop pop sop top wop
+lot low lox not pot rot sot tot wot
+low lox mow now pow row sow tow vow wow
+lox pox
+lug luv mug pug rug tug
+luv
+lye rye
+mac mad mag mam man map mar mas mat maw max may mic sac vac
+mad mag mam man map mar mas mat maw max may med mid mod mud pad rad sad tad wad
+mag mam man map mar mas mat maw max may meg mug nag rag sag tag wag
+mam man map mar mas mat maw max may mhm mom mum ram yam
+man map mar mas mat maw max may men nan pan ran tan van wan
+map mar mas mat maw max may mop nap pap rap sap tap yap zap
+mar mas mat maw max may oar par tar war
+mas mat maw max may pas was
+mat maw max may met oat pat rat sat tat vat
+maw max may mew mow paw raw saw yaw
+max may mix sax tax wax
+may nay pay ray say way yay
+med meg meh men met mew mid mod mud red ted wed
+meg meh men met mew mug peg reg veg
+meh men met mew
+men met mew pen ten yen
+met mew net pet set vet wet yet
+mew mow new pew sew yew
+mhm mom mum ohm
+mic mid mil mix pic sic tic
+mid mil mix mod mud rid yid
+mil mix nil oil til
+mix nix pix six
+mob mod moi mom moo mop mow nob rob sob yob
+mod moi mom moo mop mow mud nod pod rod sod tod
+moi mom moo mop mow
+mom moo mop mow mum pom tom
+moo mop mow poo roo too woo zoo
+mop mow pop sop top wop
+mow now pow row sow tow vow wow
+mud mug mum pud
+mug mum pug rug tug
+mum rum sum tum yum
+nab nag nah nan nap nay nib nob nub tab
+nag nah nan nap nay rag sag tag wag
+nah nan nap nay nth rah
+nan nap nay nun pan ran tan van wan
+nap nay nip pap rap sap tap yap zap
+nay pay ray say way yay
+nee net new pee see tee wee
+net new nit not nut pet set vet wet yet
+new now pew sew yew
+nib nil nip nit nix nob nub rib
+nil nip nit nix oil til
+nip nit nix pip rip sip tip yip zip
+nit nix not nut pit sit tit wit zit
+nix pix six
+nob nod nor not now nub rob sob yob
+nod nor not now pod rod sod tod
+nor not now tor
+not now nut pot rot sot tot wot
+now pow row sow tow vow wow
+nth
+nub nun nut pub rub sub tub
+nun nut pun run sun
+nut out put rut tut
+oaf oak oar oat off
+oak oar oat oik yak
+oar oat our par tar war
+oat oft opt out pat rat sat tat vat
+och ooh
+odd ode old
+ode ole one ore owe
+off oft
+oft opt out
+ohm oho
+oho tho who
+oik oil
+oil owl til
+old ole
+ole one ore owe
+one ore owe
+ooh soh
+ops opt ups
+opt out
+orb orc ore
+orc ore
+ore owe
+our out
+out put rut tut
+owe owl own
+owl own
+own pwn
+pad pal pan pap par pas pat paw pay pod pud rad sad tad wad
+pal pan pap par pas pat paw pay pol
+pan pap par pas pat paw pay pen pin pun pwn ran tan van wan
+pap par pas pat paw pay pep pip pop pup rap sap tap yap zap
+par pas pat paw pay per tar war
+pas pat paw pay pus was
+pat paw pay pet pit pot put rat sat tat vat
+paw pay pew pow raw saw yaw
+pay ply pry ray say way yay
+pea pee peg pen pep per pet pew sea tea yea
+pee peg pen pep per pet pew pie see tee wee
+peg pen pep per pet pew pig pug reg veg
+pen pep per pet pew pin pun pwn ten yen
+pep per pet pew pip pop pup rep yep
+per pet pew yer
+pet pew pit pot put set vet wet yet
+pew pow sew yew
+pic pie pig pin pip pit pix sic tic
+pie pig pin pip pit pix tie vie
+pig pin pip pit pix pug rig wig
+pin pip pit pix pun pwn sin tin win yin
+pip pit pix pop pup rip sip tip yip zip
+pit pix pot put sit tit wit zit
+pix pox six
+ply pry sly
+pod pol pom poo pop pot pow pox pud rod sod tod
+pol pom poo pop pot pow pox sol
+pom poo pop pot pow pox tom
+poo pop pot pow pox pro roo too woo zoo
+pop pot pow pox pup sop top wop
+pot pow pox put rot sot tot wot
+pow pox row sow tow vow wow
+pox
+pro pry
+pry try wry
+pub pud pug pun pup pus put rub sub tub
+pud pug pun pup pus put
+pug pun pup pus put rug tug
+pun pup pus put pwn run sun
+pup pus put sup yup
+pus put
+put rut tut
+pwn
+rad rag rah ram ran rap rat raw ray red rid rod sad tad wad
+rag rah ram ran rap rat raw ray reg rig rug sag tag wag
+rah ram ran rap rat raw ray
+ram ran rap rat raw ray rim rum yam
+ran rap rat raw ray run tan van wan
+rap rat raw ray rep rip sap tap yap zap
+rat raw ray rot rut sat tat vat
+raw ray row saw yaw
+ray say way yay
+red ref reg rep rev rid rod ted wed
+ref reg rep rev
+reg rep rev rig rug veg
+rep rev rip yep
+rev
+rib rid rig rim rip rob rub
+rid rig rim rip rod yid
+rig rim rip rug wig
+rim rip rum sim vim
+rip sip tip yip zip
+rob rod roe roo rot row rub sob yob
+rod roe roo rot row sod tod
+roe roo rot row rue rye toe woe
+roo rot row too woo zoo
+rot row rut sot tot wot
+row sow tow vow wow
+rub rue rug rum run rut sub tub
+rue rug rum run rut rye sue
+rug rum run rut tug
+rum run rut sum tum yum
+run rut sun
+rut tut
+rye
+sac sad sag sap sat saw sax say sec sic vac
+sad sag sap sat saw sax say sod tad wad
+sag sap sat saw sax say tag wag
+sap sat saw sax say sip sop sup tap yap zap
+sat saw sax say set sit sot tat vat
+saw sax say sew sow yaw
+sax say sex six tax wax
+say shy sky sly soy spy sty way yay
+sea sec see set sew sex ska spa tea yea
+sec see set sew sex sic
+see set sew sex she sue tee wee
+set sew sex sit sot vet wet yet
+sew sex sow yew
+sex six vex
+she shh shy sue the
+shh shy soh
+shy sky sly soy spy sty thy why
+sic sim sin sip sir sis sit six tic
+sim sin sip sir sis sit six sum vim
+sin sip sir sis sit six son sun tin win yin
+sip sir sis sit six sop sup tip yip zip
+sir sis sit six
+sis sit six tis
+sit six sot tit wit zit
+six
+ska ski sky spa
+ski sky
+sky sly soy spy sty
+sly soy spy sty
+sob sod soh sol son sop sot sou sow soy sub yob
+sod soh sol son sop sot sou sow soy tod
+soh sol son sop sot sou sow soy
+sol son sop sot sou sow soy
+son sop sot sou sow soy sun ton won yon
+sop sot sou sow soy sup top wop
+sot sou sow soy tot wot
+sou sow soy you
+sow soy tow vow wow
+soy spy sty toy
+spa spy
+spy sty
+sty
+sub sue sum sun sup tub
+sue sum sun sup
+sum sun sup tum yum
+sun sup
+sup yup
+tab tad tag tan tap tar tat tax tub
+tad tag tan tap tar tat tax ted tod wad
+tag tan tap tar tat tax tog tug wag
+tan tap tar tat tax ten tin ton van wan
+tap tar tat tax tip top yap zap
+tar tat tax tor war
+tat tax tit tot tut vat
+tax tux wax
+tea ted tee ten yea
+ted tee ten tod wed
+tee ten the tie toe wee
+ten tin ton yen
+the tho thy tie toe
+tho thy too two who
+thy toy try why
+tic tie til tin tip tis tit
+tie til tin tip tis tit toe vie
+til tin tip tis tit
+tin tip tis tit ton win yin
+tip tis tit top yip zip
+tis tit
+tit tot tut wit zit
+tod toe tog tom ton too top tor tot tow toy
+toe tog tom ton too top tor tot tow toy woe
+tog tom ton too top tor tot tow toy tug wog
+tom ton too top tor tot tow toy tum
+ton too top tor tot tow toy won yon
+too top tor tot tow toy two woo zoo
+top tor tot tow toy wop
+tor tot tow toy
+tot tow toy tut wot
+tow toy vow wow
+toy try
+try wry
+tub tug tum tut tux
+tug tum tut tux
+tum tut tux yum
+tut tux
+tux
+two
+ump
+ups
+use ute
+ute
+vac van vat
+van vat wan
+vat vet
+veg vet vex
+vet vex wet yet
+vex
+via vie vim
+vie vim
+vim
+vow wow
+wad wag wan war was wax way wed
+wag wan war was wax way wig wog
+wan war was wax way win won
+war was wax way
+was wax way
+wax way
+way why wry yay
+web wed wee wet
+wed wee wet
+wee wet woe
+wet wit wot yet
+who why woo
+why wry
+wig win wit wog
+win wit won yin
+wit wot zit
+woe wog wok won woo wop wot wow
+wog wok won woo wop wot wow
+wok won woo wop wot wow
+won woo wop wot wow yon
+woo wop wot wow zoo
+wop wot wow
+wot wow
+wow
+wry
+yak yam yap yaw yay yuk
+yam yap yaw yay yum
+yap yaw yay yep yip yup zap
+yaw yay yew
+yay
+yea yen yep yer yes yet yew
+yen yep yer yes yet yew yin yon
+yep yer yes yet yew yip yup
+yer yes yet yew
+yes yet yew
+yet yew
+yew
+yid yin yip
+yin yip yon
+yip yup zip
+yob yon you
+yon you
+you
+yuk yum yup
+yum yup
+yup
+zap zip
+zip zit
+zit
+zoo

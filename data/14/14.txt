@@ -1,0 +1,6 @@
+WORD psychoanalyses (DEGREE: 4)
+CONNECTED words:
+psychoanalysed
+psychoanalysis
+psychoanalysts
+psychoanalyzes
