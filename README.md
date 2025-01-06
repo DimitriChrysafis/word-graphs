@@ -1,3 +1,7 @@
+<a href="https://raw.githubusercontent.com/DimitriChrysafis/word-graphs/refs/heads/main/data/2/graph.html" download="graph.html">
+  <button style="padding: 10px 20px; font-size: 16px; cursor: pointer; background-color: #4CAF50; color: white; border: none; border-radius: 5px;">Download Graph</button>
+</a>
+
 ## 2 Letter words  
 [URL for preview](data/2/graph.html)  
 ![2.png](photos/2.png)
